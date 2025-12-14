@@ -54,7 +54,7 @@
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
 -->
----
+
 
 <!--
 ## 🏆 Featured Projects
