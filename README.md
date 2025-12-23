@@ -15,7 +15,7 @@
 
 -->
 
-<!--
+
 ## 🚀 About Me  
 
 👋 I'm a passionate **Software Developer** who loves building intelligent and scalable web applications that solve real-world problems.  
@@ -25,7 +25,7 @@
 🧠 I’m constantly learning and experimenting with new tools and frameworks to improve my craft and stay ahead in the tech world.  
 
 ⚙️ **Current Focus:** Building full-stack applications with the **MERN stack** and exploring **Next.js** for modern web development.  
--->
+
 
 <!--
 <br><br>
