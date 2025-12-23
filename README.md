@@ -29,6 +29,18 @@
 ⚙️ **Current Focus:** Building full-stack applications with the **MERN stack** and exploring **Next.js** for modern web development.  
 
 
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" /> My Recent Projects 
+
+ 1. [VatelEducation](https://www.vateleducation.com/)
+ 2. [Onilabu Foundation](https://www.onilabufokole.org/)
+ 3. [VatelEngineering](https://www.vatelengineering.com/)
+ 4. [LWBC](https://lifewaybaptistchurch.vercel.app/)
+ 5. [Fidotpeanutsnacks](https://fidotpeanutsnacks.vercel.app/)
+ 6. [VatelInvestment](https://www.vatelinvestment.com/)
+ 7. [Digitalphotobook](https://xonitech-digital-photobook.vercel.app/)
+ 8. [Maykemzbytes](https://maykemzbytes.vercel.app/)
+
+
 <!--
 <br><br>
 
