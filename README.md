@@ -17,7 +17,7 @@
 
 ## 🚀 About Me  
 
-👋 I'm a passionate **Software Engineer** who loves building intelligent and scalable web apps that solve real-world problems.  
+👋 I'm a **Software Engineer** who loves building intelligent and scalable web apps that solve real-world problems.  
 
 💡 I’m deeply interested in creating clean, efficient, and user-friendly solutions using modern technologies. 
 
