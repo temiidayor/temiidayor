@@ -14,7 +14,7 @@
 </div>
 -->
 
-
+<!--
 ## 🚀 About Me  
 
 👋 I love building intelligent and scalable web apps that solve real-world problems.  
@@ -26,10 +26,11 @@
 🧠 I’m constantly learning and experimenting with new tools and frameworks to improve my craft and stay ahead in the tech world.  
 
 ⚙️ **Current Focus:** Building full-stack applications with the **MERN stack** and exploring **Next.js** for modern web development.  
-
+-->
 
 <br>
 
+<!--
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" /> My Recent Projects 
 
  1. [VatelEducation](https://www.vateleducation.com/)
@@ -40,7 +41,7 @@
  6. [VatelInvestment](https://www.vatelinvestment.com/)
  7. [Digitalphotobook](https://xonitech-digital-photobook.vercel.app/)
  8. [Maykemzbytes](https://maykemzbytes.vercel.app/)
-
+-->
 
 <!--
 <br><br>
@@ -73,9 +74,10 @@
 
 <br>
 
+<!--
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Languages and Tools:**  
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,vite,ts,next,expressjs,nodejs,mongodb,git,github,vscode,postman)](#)
-
+-->
 
 <!--
 ## 🏆 Featured Projects
