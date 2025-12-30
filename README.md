@@ -30,7 +30,7 @@
 
 <br>
 
-<!--
+
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" /> My Recent Projects 
 
  1. [VatelEducation](https://www.vateleducation.com/)
@@ -41,7 +41,7 @@
  6. [VatelInvestment](https://www.vatelinvestment.com/)
  7. [Digitalphotobook](https://xonitech-digital-photobook.vercel.app/)
  8. [Maykemzbytes](https://maykemzbytes.vercel.app/)
--->
+
 
 <!--
 <br><br>
