@@ -30,6 +30,7 @@
 
 <br>
 
+<!--
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" /> My Recent Projects 
 
@@ -41,7 +42,7 @@
  6. [VatelInvestment](https://www.vatelinvestment.com/)
  7. [Digitalphotobook](https://xonitech-digital-photobook.vercel.app/)
  8. [Maykemzbytes](https://maykemzbytes.vercel.app/)
-
+-->
 
 <!--
 <br><br>
@@ -74,10 +75,11 @@
 
 <br>
 
+<!--
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="20" height="20" /> **Languages and Tools:**  
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,vite,ts,next,expressjs,nodejs,mongodb,git,github,vscode,postman)](#)
-
+-->
 
 <!--
 ## 🏆 Featured Projects
