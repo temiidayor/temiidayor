@@ -76,7 +76,7 @@
 <br>
 
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="20" height="20" /> **Web Dev Skills:**  
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="16" height="16" /> **Web Technologies:**  
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,vite,ts,next,expressjs,nodejs,mongodb,git,github,vscode,postman)](#)
 
 
