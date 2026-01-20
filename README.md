@@ -31,7 +31,7 @@
 
 <!--
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" /> My Recent Projects 
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" /> Web Projects 
 
  1. [VatelEducation](https://www.vateleducation.com/)
  2. [OnilabuFoundation](https://www.onilabufokole.org/)
