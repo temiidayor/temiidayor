@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=I+build+data+pipelines+and+infrastructure;I+build+systems+that+move,+transform;and+store+data+realiably+at+scale...;I+Build+Scalable+APIs,+data-driven+systems;and+high-performance+production-ready+digital+products!&center=true&width=900&height=45" />
+  <img src="https://readme-typing-svg.herokuapp.com?lines=I+build+data+pipelines+and+infrastructure;I+build+systems+that+move,transform;and+store+data+realiably+at+scale...;I+Build+Scalable+APIs,+data-driven+systems;and+high-performance+production-ready+digital+products!&center=true&width=900&height=45" />
 </div>
 
 
