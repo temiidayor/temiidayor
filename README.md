@@ -1,6 +1,7 @@
 
 <div align="center">
   <h1>Hey 👋, I'm Emmanuel </h1>
+  <h4>Software Engineer</h4>
 </div>
 
 <div align="center">
