@@ -1,7 +1,7 @@
 
 <div align="center">
   <h1>Hey 👋, I'm Emmanuel </h1>
-  <h2>Software Engineer (Data)</h2>
+  <h2>Software Engineer</h2>
 </div>
 
 <!--
