@@ -1,14 +1,12 @@
 
 <div align="center">
   <h1>Hey 👋, I'm Emmanuel </h1>
-  <h2>Software Engineer</h2>
 </div>
 
-<!--
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Data+Engineer;Software+Engineer;I+build+data+pipelines+and+infrastructure;I+build+systems+that+move,+store,+transform;and+store+data+realiably+at+scale...;I+build+high-performance+digital+products!&center=true&width=900&height=45" />
 </div>
--->
+
 
 <!--
 <div align="center">
