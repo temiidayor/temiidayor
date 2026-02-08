@@ -24,7 +24,7 @@
 
 🎯 I focus on writing maintainable code and crafting products that deliver seamless user experiences.  
 
-🧠 I’m constantly learning and building to improve my craft and stay ahead in the tech world.   
+🧠 I’m constantly learning and building with modern technologies to improve and stay ahead in the tech world.   
 
 
 <br>
