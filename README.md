@@ -6,7 +6,7 @@
 
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Frontend+Engineer+%7C+React+Developer+%7C+MERN+Stack+Developer;I+build+clean,+scalable,+and+responsive+user+interfaces;I+create+high-performance,+production-ready+web+applications&center=true&width=900&height=45" />
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Frontend+Engineer+%7C+React+Developer+%7C+Next.js+Developer;I+build+clean,+scalable,+and+responsive+user+interfaces;I+create+high-performance,+production-ready+web+applications&center=true&width=900&height=45" />
 </div>
 
 
