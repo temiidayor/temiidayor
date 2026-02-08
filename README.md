@@ -1,6 +1,7 @@
 
 <div align="center">
   <h1>Hey 👋, I'm Emmanuel </h1>
+  <h2>Software Engineer</h2>
 </div>
 
 <!--
@@ -17,7 +18,7 @@
 
 <!--
 ## 🚀 About Me  
--->
+
 
 👋 I love building intelligent and scalable web apps that solve real-world problems.  
 
@@ -27,6 +28,7 @@
 
 🧠 I’m constantly learning and building with modern technologies to improve and stay ahead in the tech world.   
 
+-->
 
 <br>
 
