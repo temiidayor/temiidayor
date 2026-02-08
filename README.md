@@ -16,8 +16,9 @@
 </div>
 -->
 
-
+<!--
 ## 🚀 About Me  
+-->
 
 👋 I love building intelligent and scalable web apps that solve real-world problems.  
 
