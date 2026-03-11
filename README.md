@@ -7,7 +7,7 @@
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=React+Developer+%7C+Next.js+Developer;+Full-Stack+Developer+%7C+Mobile+Developer;I+build+clean,+scalable,+and+responsive+user+interfaces;I+design+and+build+secure+and+scalable+APIs;I+create+high-performance,+production-ready+apps&center=true&width=900&height=45" />
+  <img src="https://readme-typing-svg.herokuapp.com?lines=React+Developer+%7C+Next.js+Developer;I+build+clean,+scalable,+and+responsive+user+interfaces;I+design+and+build+secure+and+scalable+APIs;I+create+high-performance,+production-ready+apps&center=true&width=900&height=45" />
 </div>
 
 
