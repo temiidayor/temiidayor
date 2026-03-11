@@ -19,7 +19,7 @@
 -->
 
 
-## 🚀 About Me  
+## About Me  
 
 
 👋 I love building intelligent and scalable apps that solve real-world problems.  
