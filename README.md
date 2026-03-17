@@ -26,7 +26,7 @@
 
 💡 I’m deeply interested in creating clean, efficient, and user-friendly solutions.
 
-🎯 I focus on writing maintainable code and crafting products that deliver seamless user experiences.  
+🎯 I write maintainable code and craft products that deliver seamless user experiences.  
 
 🧠 I’m constantly learning and building with modern technologies to improve and stay ahead in the tech world.   
 
