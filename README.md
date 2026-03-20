@@ -22,13 +22,13 @@
 ## About Me  
 
 
-👋 I love building intelligent and scalable apps that solve real-world problems.  
+- I love building intelligent and scalable apps that solve real-world problems.  
 
-💡 I’m deeply interested in creating clean, efficient, and user-friendly solutions.
+- I’m deeply interested in creating clean, efficient, and user-friendly solutions.
 
-🎯 I write maintainable code and craft products that deliver seamless user experiences.  
+- I write maintainable code and craft products that deliver seamless user experiences.  
 
-🧠 I’m constantly learning and building with modern technologies to improve and stay ahead in the tech world.   
+- I’m constantly learning and building with modern technologies to improve and stay ahead in the tech world.   
 
 
 <br>
