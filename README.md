@@ -27,7 +27,9 @@
 
 - I’m deeply interested in creating clean, efficient, and user-friendly solutions
 
-- I’m constantly learning and building with modern technologies to improve in tech world   
+- I’m constantly learning and building with modern technologies to improve in tech world
+  
+- I’m curious and always learning through documentation, experimentation and project based development
 
 
 <br>
