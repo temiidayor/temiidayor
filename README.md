@@ -96,7 +96,7 @@
 </div>
 
 
-### My Tech Stack
+### Tech Stack
 
 <div align="left">
   <div style="display: inline-block;">
