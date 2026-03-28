@@ -27,7 +27,7 @@
 
 - I'm deeply interested in creating clean, efficient, and user-friendly solutions
   
-- Curious and always learning through documentation, experimentation and project based development
+- Curious and always learning through docs, experimentation and project based development
 
 
 <br>
