@@ -25,7 +25,7 @@
 
 - I love building intelligent and scalable apps that solve real-world problems  
 
-- Deeply interested in creating clean, efficient, and user-friendly solutions
+- I'm deeply interested in creating clean, efficient, and user-friendly solutions
 
 - I’m constantly learning and building with modern technologies to improve in tech world
   
