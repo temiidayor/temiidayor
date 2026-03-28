@@ -20,7 +20,7 @@
 
 
 
-<!--## About Me  -->
+## About Me
 
 
 - I build intelligent and scalable systems that solve real-world problems  
