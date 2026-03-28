@@ -23,7 +23,7 @@
 ## About Me  
 
 
-- I love building intelligent and scalable apps that solve real-world problems  
+- I build intelligent and scalable apps that solve real-world problems  
 
 - I'm deeply interested in creating clean, efficient, and user-friendly solutions
 
