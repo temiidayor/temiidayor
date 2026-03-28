@@ -26,8 +26,6 @@
 - I build intelligent and scalable systems that solve real-world problems  
 
 - I'm deeply interested in creating clean, efficient, and user-friendly solutions
-
-- I’m constantly learning and building with modern technologies to improve in tech world
   
 - Curious and always learning through documentation, experimentation and project based development
 
